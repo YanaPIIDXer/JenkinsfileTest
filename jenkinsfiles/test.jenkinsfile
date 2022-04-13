@@ -1,0 +1,5 @@
+node {
+  stage('Directory Test') {
+    echo 'Directory Test Jenkinsfile'
+  }
+}
